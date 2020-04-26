@@ -347,7 +347,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.libmediathek3" name="libmediathek3" version="1.5.20.1" provider-name="68000a">
+<addon id="script.module.libmediathek3" name="libmediathek3" version="1.5.22.1" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
