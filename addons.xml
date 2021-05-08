@@ -219,7 +219,7 @@
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.libmediathek3" version="1.5.23.1" provider-name="68000a"/>
-        <import addon="script.module.libzdf" version="2.1.18.1" provider-name="68000a"/>
+        <import addon="script.module.libzdf" version="2.1.16.1" provider-name="68000a"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
