@@ -172,7 +172,7 @@
 <addon id="plugin.video.phoenixmediathek.matrix" name="Phoenix Mediathek" version="2.0.4" provider-name="68000a">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.libmediathek3.matrix" version="1.5.18" provider-name="68000a"/>
+        <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -246,7 +246,7 @@
 <addon id="plugin.video.zdftivi.matrix" name="ZDF Tivi" version="1.0.3" provider-name="68000a">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.libmediathek3.matrix" version="1.5.23" provider-name="68000a"/>
+        <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
         <import addon="script.module.libzdf.matrix" version="2.1.21" provider-name="68000a"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
@@ -291,7 +291,7 @@
 <addon id="script.module.lib3sat.matrix" name="lib3sat" version="1.2.9" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.23" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
     <import addon="script.module.beautifulsoup4" version="4.5.3"/>
     </requires>
   <extension point="xbmc.python.module" library="lib" />
@@ -305,7 +305,7 @@
 <addon id="script.module.libard.matrix" name="libard" version="5.1.30" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.23" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
 
   <extension point="xbmc.python.module" library="lib" />
@@ -321,7 +321,7 @@
 <addon id="script.module.libarte.matrix" name="libarte" version="1.0.19" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.18" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
@@ -334,7 +334,7 @@
 <addon id="script.module.libbr.matrix" name="libbr" version="2.0.9" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.18" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
@@ -349,7 +349,7 @@
 <addon id="script.module.libdaserste.matrix" name="libdaserste" version="1.1.6" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.18" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
@@ -363,7 +363,7 @@
 <addon id="script.module.libhr.matrix" name="libhr" version="1.9.5" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.18" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
     <import addon="script.module.beautifulsoup4" version="4.5.3"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
@@ -379,7 +379,7 @@
 <addon id="script.module.libkika.matrix" name="libkika" version="2.0.6" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.23" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
@@ -408,7 +408,7 @@
 <addon id="script.module.libsr.matrix" name="libsr" version="2.0.4" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.18" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
@@ -423,7 +423,7 @@
 <addon id="script.module.libwdr.matrix" name="libwdr" version="1.2.9" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.18" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
@@ -438,7 +438,7 @@
 <addon id="script.module.libzdf.matrix" name="libzdf" version="2.1.21" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.libmediathek3.matrix" version="1.5.23" provider-name="68000a"/>
+    <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
