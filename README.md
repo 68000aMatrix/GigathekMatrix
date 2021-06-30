@@ -43,4 +43,3 @@ welches offenbar nicht mehr weiterentwickelt wird.
 <img src="https://github.com/68000a/Gigathek/blob/master/code/plugin.video.zdf_de_lite/icon.png?raw=true" width="32"> ZDF Mediathek
 
 <img src="https://github.com/68000a/Gigathek/blob/master/code/plugin.video.zdftivi/icon.png?raw=true" width="32"> ZDFtivi Mediathek
-
