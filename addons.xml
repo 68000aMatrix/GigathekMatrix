@@ -396,7 +396,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.libzdf.matrix" name="libzdf" version="2.1.22" provider-name="68000a">
+<addon id="script.module.libzdf.matrix" name="libzdf" version="2.1.23" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.libmediathek3.matrix" version="1.5.29" provider-name="68000a"/>
