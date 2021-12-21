@@ -352,10 +352,9 @@
   </extension>
 </addon>
 
-<addon id="script.module.libmediathek3.matrix" name="libmediathek3" version="1.5.30" provider-name="68000a">
+<addon id="script.module.libmediathek3.matrix" name="libmediathek3" version="1.5.31" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.pydevd" version="4.4.1" />
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
