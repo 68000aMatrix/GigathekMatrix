@@ -232,7 +232,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.libbr.matrix" name="libbr" version="2.0.15" provider-name="68000a">
+<addon id="script.module.libbr.matrix" name="libbr" version="2.0.16" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.libmediathek3.matrix" version="1.5.34" provider-name="68000a"/>
@@ -272,7 +272,7 @@
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <source>https://github.com/68000a/Gigathek/tree/master/code/script.module.libmediathek3</source>
     <summary lang="en">Supplementary lib for Mediathek add-ons.</summary>
-    <description lang="en">This lib is a mini framework. It is used in following "Mediathek" Scrapers: 3sat, ARD, BR, Das Erste, SR, WDR, ZDF.</description>
+    <description lang="en">This lib is a mini framework. It is used in following "Mediathek" Scrapers: 3sat, ARD, Arte, BR, WDR, ZDF.</description>
   </extension>
 </addon>
 
