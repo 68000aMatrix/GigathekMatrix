@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
+<addon id="Gigathek" name="Deutsche öffentlich-rechtliche TV-Mediatheken" version="1.0.19" provider-name="68000a">
+    <extension point="xbmc.addon.repository" name="Deutsche TV-Mediatheken Add-on Repository">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Deutsche öffentlich-rechtliche TV-Mediatheken</summary>
+        <description>Download and install addons for German TV media libraries. Compatible with Kodi 17 "Krypton", Kodi 18 "Leia" and Kodi 19 "Matrix".</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="plugin.video.3satmediathek.matrix" name="3sat Mediathek" version="1.3.8" provider-name="68000a">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
