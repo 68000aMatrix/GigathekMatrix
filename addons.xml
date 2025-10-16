@@ -63,7 +63,7 @@
 <addon id="plugin.video.artemediathek.matrix" name="Arte Mediathek" version="1.0.13" provider-name="68000a">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.libarte.matrix" version="1.0.29" provider-name="68000a"/>
+        <import addon="script.module.libarte.matrix" version="1.0.30" provider-name="68000a"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -230,7 +230,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.libarte.matrix" name="libarte" version="1.0.29" provider-name="68000a">
+<addon id="script.module.libarte.matrix" name="libarte" version="1.0.30" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.libmediathek3.matrix" version="1.5.34" provider-name="68000a"/>
