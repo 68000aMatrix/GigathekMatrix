@@ -273,7 +273,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.libmediathek3.matrix" name="libmediathek3" version="1.5.37" provider-name="68000a">
+<addon id="script.module.libmediathek3.matrix" name="libmediathek3" version="1.5.38" provider-name="68000a">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
